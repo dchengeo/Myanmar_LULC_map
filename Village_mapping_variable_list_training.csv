@@ -1,0 +1,29 @@
+Full Variable Name,File Name,Variable Code
+Distance to MODIS Active Fire,D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\dist_modis_af_2015_16.tif,dist_modis_af
+Distance to VIIRS Active Fire,D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\dist_viirs_af_2015_16.tif,dist_viirs_af
+Distance to Roads,D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\distance_to_rds_20190812.tif,dist_rd
+Distance to 3rd Order or Greater Waterway,D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\distance_to_strahler3.tif,dist_strahler3
+Distance to Water,D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\distance_to_water.tif,dist_water
+Seasonal Difference in Tasseled Cap Wetness,D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\Myanmar_diff_tcw_sr_mosaic.tif,diff_tcw
+Texture: NIR Mean Occurrence (Dry-Cold Season),D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\Myanmar_dry_cold_b5_mean_mosaic.tif,texture_dc
+Landsat 8 OLI Band 7 SWIR 2 (Dry-Cold),D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\Myanmar_dry_cold_b7_mosaic.tif,b7_dc
+Landat 8 TIRS Band 10 (Dry-Cold Season),D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\Myanmar_dry_cold_b10_toa_mosaic.tif,b10_dc
+Landat 8 TIRS Band 11 (Dry-Cold Season),D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\Myanmar_dry_cold_b11_toa_mosaic.tif,b11_dc
+NBR2 (Dry-Cold Season),D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\Myanmar_dry_cold_nbr2_mosaic.tif,nbr2_dc
+NDVI (Dry-Cold),D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\Myanmar_dry_cold_ndvi_mosaic.tif,ndvi_dc
+NDWI6 (Dry-Cold Season),D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\Myanmar_dry_cold_ndwi6_mosaic.tif,ndwi6_dc
+NDWI7 (Dry-Cold Season),D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\Myanmar_dry_cold_ndwi7_mosaic.tif,ndwi7_dc
+Tasseled Cap Wetness (Dry-Cold Season),D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\Myanmar_dry_cold_tcw_sr_mosaic.tif,tcw_dc
+Texture: NIR Mean Occurrence (Dry-Hot Season),D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\Myanmar_dry_hot_b5_mean_mosaic.tif,texture_dh
+Landsat 8 OLI Band 7 SWIR 2 (Dry-Hot),D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\Myanmar_dry_hot_b7_mosaic.tif,b7_dh
+Landat 8 TIRS Band 10 (Dry-Hot Season),D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\Myanmar_dry_hot_b10_toa_mosaic.tif,b10_dh
+Landat 8 TIRS Band 11 (Dry-Hot Season),D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\Myanmar_dry_hot_b11_toa_mosaic.tif,b11_dh
+NBR2 (Dry-Hot Season),D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\Myanmar_dry_hot_nbr2_mosaic.tif,nbr2_dh
+NDVI (Dry-Hot),D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\Myanmar_dry_hot_ndvi_mosaic.tif,ndvi_dh
+NDWI6 (Dry-Hot Season),D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\Myanmar_dry_hot_ndwi6_mosaic.tif,ndwi6_dh
+NDWI7 (Dry-Hot Season),D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\Myanmar_dry_hot_ndwi7_mosaic.tif,ndwi7_dh
+Tasseled Cap Wetness (Dry-Hot Season),D:\lobodagp\dchen\Tony\Myanmar\Village_mapping\Input_layers\Myanmar_dry_hot_tcw_sr_mosaic.tif,tcw_dh
+Elevation,D:\lobodagp\dchen\Tony\Myanmar\SRTM_DEM\mosaic\DEM_Myanmar_UTM46N_clipped.tif,elev
+Landsat Tree Cover Continuous Fields Product,D:\lobodagp\dchen\Tony\Myanmar\Landsat_VCF\Myanmar_Sexton_TC_2000_2015_median_clip.tif,tc
+Slope,D:\lobodagp\dchen\Tony\Myanmar\SRTM_DEM\mosaic\slope_Myanmar_UTM46N_clipped.tif,slope
+TerrainType,D:\lobodagp\dchen\Tony\Myanmar\SRTM_DEM\mosaic\DEM_binary_500m.tif,terrainTp
